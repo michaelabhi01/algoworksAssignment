@@ -10,5 +10,5 @@ Commands to run the project:
   {
     "username":"SrBachchan"
   }
---For pagination I have user query string to get the page no.
+--For pagination I have used query string to get the page no.
   sample url : http://localhost:5000/getTweets?page=1
